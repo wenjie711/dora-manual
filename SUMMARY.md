@@ -7,7 +7,7 @@
    * [计费方式](chapter1/billing.md)
    * [使用限制](chapter1/service_restrictions.md)
 * [应用市场](chapter2/README.md)
-   * [快速上手](chapter2/qui.md)
+   * [快速上手](chapter2/quick_start.md)
    * 应用审核
 * [应用开发](chapter3/README.md)
    * [快速上手](chapter3/quick_start.md)
