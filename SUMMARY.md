@@ -6,9 +6,6 @@
    * [如何使用Dora](chapter1/how_to_use_dora.md)
    * [计费方式](chapter1/billing.md)
    * [使用限制](chapter1/service_restrictions.md)
-* [应用市场](chapter2/README.md)
-   * [快速上手](chapter2/quick_start.md)
-   * [应用审核](chapter2/service_ review.md)
 * [应用开发](chapter3/README.md)
    * [快速上手](chapter3/quick_start.md)
    * [版本管理](chapter3/version_management.md)
@@ -16,4 +13,7 @@
    * [应用监控](chapter3/ufop_monitoring.md)
    * [应用发布](chapter3/ufop_release.md)
    * [应用设置](chapter3/ufop_setting.md)
+* [应用市场](chapter2/README.md)
+   * [快速上手](chapter2/quick_start.md)
+   * [应用审核](chapter2/service_ review.md)
 
