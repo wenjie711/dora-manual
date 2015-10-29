@@ -9,4 +9,5 @@
 * [应用市场](chapter2/README.md)
 * [应用开发](chapter3/README.md)
    * [快速上手](chapter3/quick_start.md)
+   * 版本管理
 
