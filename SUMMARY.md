@@ -13,5 +13,5 @@
    * [实例管理](chapter3/instance_management.md)
    * [应用监控](chapter3/ufop_monitoring.md)
    * [应用发布](chapter3/ufop_release.md)
-   * 应用设置
+   * [应用设置](chapter3/ufop_setting.md)
 
