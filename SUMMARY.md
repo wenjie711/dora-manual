@@ -16,4 +16,5 @@
 * [应用市场](chapter2/README.md)
    * [快速上手](chapter2/quick_start.md)
    * [应用审核](chapter2/service_ review.md)
+   * 市场规范
 
