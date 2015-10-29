@@ -1,1 +1,4 @@
 /* CSS for website */
+img[alt] {
+    box-shadow: 0 0px 15px rgba(0,0,0,0.35);
+}
